@@ -1,5 +1,8 @@
-## 02 March 2026
-  🗒️I learned basics html structure.. 
+## 📅 02 March 2026
+
+Today I learned the basics of Front-End Development using YouTube tutorials and with the guidance of a professional teacher.
+
+🗒️ Learned Basic HTML Structure
 
 <!DOCTYPE html>
 <html>
@@ -13,4 +16,23 @@
 
 </body>
 </html>
+
+
+🗒️ Learned Basic CSS Structure
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+}
+
+
+🗒️ Learned Basic JavaScript Structure
+
+function showMessage() {
+    alert("Hello!");
+}
+
 
