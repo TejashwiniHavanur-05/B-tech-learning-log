@@ -13,3 +13,25 @@
 ###  Next Goal
 - Practice MongoDB queries
 - Work on Flask project improvements
+
+
+# 📅 Daily Learning Log – 02 March 2026
+
+##  What I Did Today
+- Maintained my daily learning record
+- Learned basic concepts of Front-End Technology
+- Studied main concepts of HTML
+- Understood basic structure of CSS
+- Revised simple webpage structure
+
+##  Topics Covered
+- HTML tags and basic structure
+- Headings, paragraphs, links
+- Introduction to CSS
+- Styling basics (color, font, layout)
+
+##  Learning Outcome
+Today I understood the foundation of front-end development and how HTML 
+and CSS work together to design web pages.
+
+---
