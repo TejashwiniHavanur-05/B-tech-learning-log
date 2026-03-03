@@ -36,3 +36,28 @@ function showMessage() {
 }
 
 
+##📅 03 March 2026
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Basics - Day 2</title>
+</head>
+<body>
+
+    <h1>HTML Basics Practice</h1>
+    <p>Learning Front-End Development step by step.</p>
+
+    <h2>My Topics Today</h2>
+    <ul>
+        <li>Headings</li>
+        <li>Paragraphs</li>
+        <li>Links</li>
+        <li>Lists</li>
+    </ul>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+</body>
+</html>
+
