@@ -34,4 +34,19 @@
 Today I understood the foundation of front-end development and how HTML 
 and CSS work together to design web pages.
 
----
+# 📅 Daily Learning Log – 03 March 2026
+
+## What I Did Today
+- Maintained my daily learning record
+- Studied for my lab exam
+- Revised HTML and CSS concepts
+- Practiced basic webpage structure
+
+## Topics Covered
+- HTML document structure
+- Headings, paragraphs, links
+- CSS basic syntax and styling
+- Lab practical preparation
+
+## Learning Outcome
+Today I strengthened my basics in front-end development and improved my confidence for the lab exam.
