@@ -50,3 +50,22 @@ and CSS work together to design web pages.
 
 ## Learning Outcome
 Today I strengthened my basics in front-end development and improved my confidence for the lab exam.
+
+# 📅 Daily Learning Log – 13 March 2026
+
+## 📚 What I Did Today
+- Worked on my mini project **Network Topology Simulator**
+- Practiced JavaScript concepts for project development
+- Designed webpage structure using HTML and CSS
+- Learned how to connect JavaScript with HTML elements
+- Fixed errors and improved the project functionality
+
+## 🧠 Topics Covered
+- JavaScript basics and functions
+- DOM manipulation
+- Event handling in JavaScript
+- Connecting HTML, CSS, and JavaScript
+- Basic logic for network topology simulation
+
+## 🎯 Learning Outcome
+Today I improved my understanding of **JavaScript and front-end development** by working on a mini project. I learned how **HTML, CSS, and JavaScript** work together to build an interactive web application.
