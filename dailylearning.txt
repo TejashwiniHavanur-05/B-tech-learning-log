@@ -51,6 +51,27 @@ and CSS work together to design web pages.
 ## Learning Outcome
 Today I strengthened my basics in front-end development and improved my confidence for the lab exam.
 
+
+# 📅 Daily Learning Log – 12 March 2026
+
+## 📚 What I Did Today
+- Worked on my project **AI College Help Desk Chatbot**
+- Added webpage structure using **HTML (index.html)**
+- Styled the interface using **CSS**
+- Implemented chatbot functionality using **JavaScript**
+- Fixed errors and improved the chatbot interaction
+
+## 🧠 Topics Covered
+- HTML page structure for chatbot interface
+- CSS styling for layout and design
+- JavaScript logic for chatbot responses
+- Connecting HTML, CSS, and JavaScript files
+- Basic front-end project development
+
+## 🎯 Learning Outcome
+Today I learned how to build a simple **AI Help Desk web interface** using **HTML, CSS, and JavaScript**. I understood how these technologies work together to create an interactive chatbot that can assist users with basic queries.
+
+
 # 📅 Daily Learning Log – 13 March 2026
 
 ## 📚 What I Did Today
