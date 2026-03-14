@@ -90,3 +90,35 @@ Today I learned how to build a simple **AI Help Desk web interface** using **HTM
 
 ## 🎯 Learning Outcome
 Today I improved my understanding of **JavaScript and front-end development** by working on a mini project. I learned how **HTML, CSS, and JavaScript** work together to build an interactive web application.
+
+
+# 📅 Daily Learning Log – 14 March 2026
+
+## 📚 What I Learned Today
+- Worked on the **Network Topology Simulator** mini project.
+- Added project files such as **index.html, style.css, and script.js**.
+- Understood how to write a **repository description and README file**.
+- Practiced uploading and managing project files in **GitHub**.
+
+## 💻 Project Work
+**Network Topology Simulator**
+- Built a basic simulator to visualize **data flow between nodes**.
+- Used **HTML** for structure.
+- Used **CSS** for styling and layout.
+- Used **JavaScript** for functionality and interaction.
+
+## 🔧 Tools & Technologies Used
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+## 🚀 Key Takeaways
+- Learned the importance of **version control**.
+- Understood how **GitHub repositories help manage project files**.
+- Practiced organizing project files for better readability.
+
+## 📌 Next Learning Goals
+- Improve the **Network Topology Simulator features**.
+- Add more **network topology types**.
+- Learn more about **JavaScript functions and DOM manipulation**.
