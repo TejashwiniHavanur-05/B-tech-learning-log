@@ -122,3 +122,47 @@ Today I improved my understanding of **JavaScript and front-end development** by
 - Improve the **Network Topology Simulator features**.
 - Add more **network topology types**.
 - Learn more about **JavaScript functions and DOM manipulation**.
+
+
+📅 Daily Learning Log – 15 March 2026
+
+📚 Topics Covered
+
+- Data Structures
+- SQL Queries
+- Problem Solving for Exam Preparation
+
+🧠 What I Learned Today
+
+🌳 B-Tree (Data Structures)
+
+- Practiced B-Tree construction using given elements.
+- Learned the step-by-step insertion process in a B-Tree.
+- Understood how to detect when a node becomes full.
+- Learned how to handle exam questions when the order of the B-Tree is not specified.
+
+⚖️ AVL Tree
+
+- Practiced AVL Tree balancing concepts.
+- Solved a problem and verified whether the AVL tree structure was correct.
+- Reviewed how rotations maintain balance in AVL trees.
+
+🗄️ SQL Queries
+
+Practiced writing SQL queries for common database operations:
+
+- Find employees working in the Sales department.
+- Retrieve the second highest salary.
+- List employees with salary greater than the average salary.
+- Display department name and number of employees in each department.
+
+💡 Key Takeaways
+
+- Improved understanding of tree data structures like B-Tree and AVL Tree.
+- Strengthened SQL query writing skills.
+- Practiced solving exam-oriented database and data structure problems.
+
+🚀 Progress
+
+Consistent practice in Data Structures and SQL helps build stronger problem-solving skills and prepares me better for technical exams and projects.
+
