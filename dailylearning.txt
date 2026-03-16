@@ -166,3 +166,42 @@ Practiced writing SQL queries for common database operations:
 
 Consistent practice in Data Structures and SQL helps build stronger problem-solving skills and prepares me better for technical exams and projects.
 
+
+📅 Daily Learning Log – 16 March 2026
+
+📚 What I Did Today
+
+Today I focused on preparing for my upcoming examinations. I revised the complete syllabus and strengthened my understanding of important concepts.
+
+🧠 Subjects Prepared
+
+1️⃣ Design and Analysis of Algorithms
+
+- Revised important algorithm concepts
+- Practiced solving algorithm problems
+- Reviewed sorting, searching, trees, graphs, and greedy techniques
+- Focused on understanding algorithm efficiency and problem-solving strategies
+
+2️⃣ Software with AI
+
+- Reviewed key software concepts related to Artificial Intelligence
+- Studied important theoretical topics from the syllabus
+- Used AI tools to clarify difficult concepts and improve understanding
+
+🤖 Learning with AI
+
+- Used AI assistance to understand complex topics
+- Verified answers for practice problems
+- Strengthened conceptual clarity through explanations
+
+💡 Key Takeaways
+
+- Revision helps reinforce core concepts before exams
+- Practicing problems improves logical thinking
+- AI tools can support learning and concept clarification
+
+🎯 Goal for Tomorrow
+
+- Write the Design and Analysis of Algorithms exam confidently
+- Perform well in the Software with AI exam
+
