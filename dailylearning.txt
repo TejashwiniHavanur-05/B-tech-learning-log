@@ -1,51 +1,34 @@
 Date: 2026-03-01
-
 Created a professional learning log repository on GitHub, structured the README for daily updates, and planned a consistent learning tracking system.
 
 
-
 Date: 2026-03-02
-
 Maintained my learning log and studied basic Front-End Technology, including HTML concepts and the basic structure of CSS.
 
 
-
 Date: 2026-03-03
-
 Maintained my learning log and revised HTML and CSS concepts while preparing for my lab exam.
 
 
-
 Date: 2026-03-12
-
 Worked on the AI College Help Desk Chatbot project by creating the webpage structure using HTML, styling with CSS, and implementing chatbot functionality with JavaScript.
 
 
-
 Date: 2026-03-13
-
 Worked on the Network Topology Simulator mini project and practiced JavaScript concepts, DOM manipulation, and connecting HTML, CSS, and JavaScript.
 
-
-
 Date: 2026-03-14
-
 Continued working on the Network Topology Simulator project, added project files, and practiced managing repositories and writing README documentation in GitHub.
 
-
-
 Date: 2026-03-15
-
 Studied Data Structures and SQL for exam preparation, practiced B-Tree and AVL Tree problems, and solved SQL queries.
 
-
-
 Date: 2026-03-16
-
 Today I studied and prepared for tomorrow’s Software Engineering with AI and ADA exams, covering two modules from each subject.
 
-
 Date: 2026-03-16
+Today I studied and prepared for tomorrow’s Software Engineering with AI and ADA exams, covering two modules from each subject. 
 
-Today I studied and prepared for tomorrow’s Software Engineering with AI and ADA exams, covering two modules from each subject.
-
+Date: 2026-03-17
+Today I studied for my FAIML exam.  
+I revised important concepts, practiced questions, and focused on understanding key topics for the exam.
