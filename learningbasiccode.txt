@@ -1,4 +1,4 @@
-## 📅 02 March 2026
+ 02 March 2026
 
 Today I learned the basics of Front-End Development using YouTube tutorials and with the guidance of a professional teacher.
 
@@ -36,7 +36,7 @@ function showMessage() {
 }
 
 
-##📅 03 March 2026
+03 March 2026
 
 <!DOCTYPE html>
 <html>
@@ -61,3 +61,27 @@ function showMessage() {
 </body>
 </html>
 
+Date:2026-03-17
+I learned the kmeans and linear regression algorithm for my exams
+
+kMeans algorithm 
+Input: Dataset D, number of clusters K
+
+1. Initialize K centroids randomly
+2. Repeat until centroids do not change:
+    a. For each data point xi in D:
+        Assign xi to the nearest centroid using distance measure
+    b. For each cluster j:
+        Update centroid cj = mean of all points in cluster j
+3. Output K clusters and their centroids
+
+Linear regression algorithm 
+Input: Dataset (X, Y)
+
+1. Initialize parameters m and b
+2. Repeat until error is minimized:
+    a. For each data point:
+        Compute predicted value: y_pred = m*x + b
+    b. Calculate error = y - y_pred
+    c. Update m and b to reduce error
+3. Output final model parameters (m, b)
