@@ -33,20 +33,20 @@ Date: 2026-03-17
 Today I studied for my FAIML exam.  
 I revised important concepts, practiced questions, and focused on understanding key topics for the exam.
 
-# AI Chatbot Project
+ AI Chatbot Project
 
-## Date: 20 March 2026
+Date: 20 March 2026
 
-## Work Done
+Work Done
 Worked on the implementation of the AI chatbot project and created the main files.
 
-## Files Created
+Files Created
 - index.html – user interface  
 - app.py – backend logic  
 - intents.json – chatbot data  
 
-## Result
+Result
 Chatbot structure is completed with frontend, backend, and data files.
 
-## Next
+Next
 Improve chatbot and add more features.
