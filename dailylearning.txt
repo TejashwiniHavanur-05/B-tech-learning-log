@@ -50,3 +50,16 @@ Chatbot structure is completed with frontend, backend, and data files.
 
 Next
 Improve chatbot and add more features.
+
+## 📅 Date: 2026-03-21
+
+### 📘 Today's Work
+Today I studied the next concept in HTML.
+
+### 📖 Topics Covered
+- Continued learning HTML
+- Explored new HTML concepts and tags
+- Practiced basic structure and elements
+
+### 💡 Summary
+Improved my understanding of HTML by learning new concepts and practicing them.
