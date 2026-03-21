@@ -85,3 +85,13 @@ Input: Dataset (X, Y)
     b. Calculate error = y - y_pred
     c. Update m and b to reduce error
 3. Output final model parameters (m, b)
+
+Date:2026-03-21
+<form>
+  <input type="text" placeholder="Enter name">
+  <button>Submit</button>
+</form>
+
+<input type="email">
+<input type="password">
+<input type="number">
