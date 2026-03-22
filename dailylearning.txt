@@ -63,3 +63,20 @@ Today I studied the next concept in HTML.
 
  Summary
 Improved my understanding of HTML by learning new concepts and practicing them.
+
+ Date:2026-03-22
+
+Today’s Work
+- Uploaded my work on GitHub with a README file  
+- Posted my internship update on LinkedIn  
+- Learned basic HTML concepts  
+
+ What I Learned
+- How to use GitHub to upload and manage projects  
+- How to write a simple README  
+- Basics of HTML (structure, headings, paragraphs, links, images)  
+
+ Next Step
+- Learn more HTML and start CSS  
+
+ Learning and improving step by step
