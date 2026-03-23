@@ -80,3 +80,14 @@ Today’s Work
 - Learn more HTML and start CSS  
 
  Learning and improving step by step
+
+Date:2026-03-23
+*Topic
+HTML – Intermediate Concepts
+* What I Learned
+- Semantic tags
+- Forms
+- Tables
+- Audio & Video
+*Summary
+Learned how to build structured web pages using HTML.
