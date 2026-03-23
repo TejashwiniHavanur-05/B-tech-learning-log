@@ -95,3 +95,11 @@ Date:2026-03-21
 <input type="email">
 <input type="password">
 <input type="number">
+
+Date:2026-03-23
+<table border="1">
+  <tr>
+    <td>Name</td>
+    <td>Teja</td>
+  </tr>
+</table>
