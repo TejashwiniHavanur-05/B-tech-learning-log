@@ -46,21 +46,27 @@ Practiced basic HTML structure.
 Improved understanding of HTML.
 
 Date: 2026-03-22
-Uploaded work on GitHub with README.
-Posted internship update on LinkedIn.
-Learned basic HTML concepts.
-Learned GitHub usage and README writing.
-Practiced HTML basics (structure, headings, paragraphs, links, images).
-Next: Learn more HTML and start CSS.
+* Uploaded work on GitHub with README.
+* Posted internship update on LinkedIn.
+* Learned basic HTML concepts.
+* Learned GitHub usage and README writing.
+* Practiced HTML basics (structure, headings, paragraphs, links, images).
+* Next: Learn more HTML and start CSS.
 
 Date: 2026-03-23
-Studied HTML intermediate concepts.
-Learned semantic tags, forms, tables, audio and video.
-Improved HTML knowledge.
+* Studied HTML intermediate concepts.
+* Learned semantic tags, forms, tables, audio and video.
+* Improved HTML knowledge.
 
 Date: 2026-03-24
 Practiced basic HTML concepts.
-Created simple web pages using HTML.
-Worked on styling using CSS.
-Practiced basic JavaScript concepts.
-Worked on FAIML subject report.
+* Created simple web pages using HTML.
+* Worked on styling using CSS.
+* Practiced basic JavaScript concepts.
+* Worked on FAIML subject report.
+
+Date: 2026-03-25
+* Learned Hadoop tools.
+* Understood cluster concept.
+* Learned about fault tolerance.
+* Asked and practiced basic concepts.
