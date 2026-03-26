@@ -40,10 +40,10 @@ Chatbot structure completed with frontend, backend, and data.
 Next: Improve chatbot and add more features.
 
 Date: 2026-03-21
-Studied next HTML concepts.
-Learned new tags and elements.
-Practiced basic HTML structure.
-Improved understanding of HTML.
+* Studied next HTML concepts.
+* Learned new tags and elements.
+* Practiced basic HTML structure.
+* Improved understanding of HTML.
 
 Date: 2026-03-22
 * Uploaded work on GitHub with README.
@@ -70,3 +70,13 @@ Date: 2026-03-25
 * Understood cluster concept.
 * Learned about fault tolerance.
 * Asked and practiced basic concepts.
+
+Date: 2026-03-26
+* Today’s Work
+- Learned about Fault Tolerance
+- Studied Hadoop tools and cluster concept
+- Practiced understanding system reliability concepts
+* What I Learned
+- Fault tolerance helps a system continue working even if some parts fail
+- A cluster is a group of computers working together as one system
+- Hadoop tools help in distributed data processing and storage
